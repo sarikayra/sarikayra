@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Kayra!
 
 🐧 Arch Linux user | 🔧 Ricing enthusiast | 🐍 Pythonista  
-💻 FOSS advocate | 💡 Tinkerer | 🧠 Always Learning
+💻 FOSS advocate | 💡 Tinkerer | 🧠 Always Learning  
+✈️ Aviation geek | 🎮 Serious flight simmer | 🚀 Future Aerospace Engineer  
 
 ---
 
@@ -30,6 +31,14 @@
 - 🎨 I rice for fun, function, and beauty.
 - 🧩 I break and fix things just to learn.
 - 🔍 Always diving into dotfiles or `man` pages.
+
+---
+
+## ✈️ Aviation & Flight Sim
+
+- 🚀 Future aerospace engineer
+- 🛩️ Flight simulation enthusiast
+- ✈️ Always fascinated by the mechanics and physics of flight
 
 ---
 
