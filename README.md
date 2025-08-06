@@ -2,7 +2,7 @@
 
 🐧 Arch Linux user | 🔧 Ricing enthusiast | 🐍 Pythonista  
 💻 FOSS advocate | 💡 Tinkerer | 🧠 Always Learning  
-✈️ Aviation geek | 🎮 Serious flight simmer | 🚀 Future Aerospace Engineer  
+✈️ Aviation geek | 🎮 Flight simmer | 🚀 Future nerd
 
 ---
 
