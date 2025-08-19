@@ -2,7 +2,7 @@
 
 🐧 Arch Linux user | 🔧 Ricing enthusiast | 🐍 Pythonista  
 💻 FOSS advocate | 💡 Tinkerer | 🧠 Always Learning  
-✈️ Aviation geek | 🎮 Flight simmer | 🚀 Future nerd
+✈️ Aviation geek | 🎮 Flight simmer | 🚀 Future pilot
 
 ---
 
@@ -59,7 +59,6 @@
 
 ## 🤝 Connect
 
-- 💬 Discord: sarikayra # Not active
 - 📁 Always open to PRs, issues, or just nerdy convos!
 
 ---
