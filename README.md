@@ -12,10 +12,6 @@ FOSS Advocate | Arch Linux user | Ricing enthusiast | Future Pilot
 ---
 
 > "I use Arch, btw."
-
-> Always open to PRs, issues, or just nerdy convos!
-
----
-
 > "Free as in freedom, not just free beer." — RMS
 
+Always open to PRs, issues, or just nerdy convos!
